@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/Users/marcos/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar:/Users/marcos/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'miprimerproyectomaven 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'miprimerproyectomaven 1.0-SNAPSHOT API'
+com.usal
+/Users/marcos/.m2/repository/com/google/code/gson/gson/2.13.2/gson-2.13.2.jar = 1757536868000
+/Users/marcos/.m2/repository/com/google/errorprone/error_prone_annotations/2.41.0/error_prone_annotations-2.41.0.jar = 1753371490000
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/src/main/java = 1765302415000
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/tag-search-index.js = 1765303011530
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/overview-tree.html = 1765303011524
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/module-search-index.js = 1765303011529
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/index.html = 1765303011535
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/.DS_Store = 1765302905236
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/package-search-index.js = 1765303011530
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/link.svg = 1765303011541
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/index-all.html = 1765303011534
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/allpackages-index.html = 1765303011529
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/member-search-index.js = 1765303011530
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/copy.svg = 1765303011540
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/script.js = 1765303011540
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/stylesheet.css = 1765303011540
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/search-page.js = 1765303011542
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/help-doc.html = 1765303011538
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/element-list = 1765303011509
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/search.html = 1765303011534
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/allclasses-index.html = 1765303011528
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/type-search-index.js = 1765303011530
+/Users/marcos/Documents/Universidad/3º de Carrera/1º Cuatrimestre/Programación III/Prácticas/progra_iii_mpb/Semana13/ClaseFinalProgramacion32025/miprimerproyectomaven/target/site/apidocs/search.js = 1765303011542
