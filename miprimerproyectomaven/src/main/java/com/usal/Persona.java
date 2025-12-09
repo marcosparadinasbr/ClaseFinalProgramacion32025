@@ -1,7 +1,7 @@
 package com.usal;
 
 /**
- * Esta clase es muy importante.
+ * Esta clase es muy importante. Y la documentación también.
  * 
  */
 public class Persona {
@@ -38,4 +38,5 @@ public class Persona {
         }
         return new Persona(trozos[0], trozos[1]);
     }
+
 }
